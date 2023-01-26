@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+
+canvas {
+    display: block;
+}
+
+button {
+    position: absolute;
+}
